@@ -2,6 +2,9 @@
 Une api simple en php avec formulaire html pour effectuer des requêtes sur FaceBook
 
 
+   Utilisation
+
+
     Allez sur la page de développement de Facebook (https://developers.facebook.com/) et connectez-vous avec votre compte Facebook.
     
     Cliquez sur "Mes applications" dans le menu de gauche, puis sur "Ajouter une nouvelle application".
