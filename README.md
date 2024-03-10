@@ -2,6 +2,11 @@
 Une api simple en php avec formulaire html pour effectuer des requêtes sur FaceBook
 
 
+   Installation
+
+
+    Placez le code dans le répertoire web.
+   
    Utilisation
 
 
