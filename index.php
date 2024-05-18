@@ -4,8 +4,8 @@ require_once 'facebook-sdk/autoload.php';
 
 // Création de l'objet Facebook
 $fb = new Facebook\Facebook([
-  'app_id' => 'MON_ID_DAPPLICATION',
-  'app_secret' => 'MON_SECRET_DAPPLICATION',
+  'app_id' => 'ID_DAPPLICATION',
+  'app_secret' => 'SECRET_DAPPLICATION',
   'default_graph_version' => 'v3.3',
 ]);
 
